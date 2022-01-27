@@ -3,6 +3,8 @@
 - This is a course project for Analytical Mechanics II
 - Problem: describe the motion of a pendulum with pivot on a frictionless disk that rotates freely
 - Simulations implemented in Pytohn
+- Euler–Lagrange differential equations for this problem are stiff. Therefore, Scipy BDF solver is used
+- Results are illustrated with Matplotlib
 - Collaborators: Zahra Akbari, Ermia Etemadi, Sepide Hosseini, Mozhgan Orujlu
 
 # Examples
